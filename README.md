@@ -6,18 +6,16 @@ Olá! Sou o Davi Miyake Batista, um profissional apaixonado por tecnologia e fas
 
 Além da minha graduação em andamento, possuo formação como **Técnico em Redes de Computadores** pelo **SENAI de São José dos Campos**, concluída no primeiro semestre de 2023. Essa sólida base em infraestrutura, aliada aos meus estudos em desenvolvimento de software, me proporciona uma visão ampla e integrada da tecnologia. Isso me permite compreender o ciclo de vida das aplicações ponta a ponta, desde o código até a rede onde ele é executado. 
 
-Estou sempre em busca de novos desafios e oportunidades para aprender, inovar e contribuir com projetos que gerem impacto positivo.
+Estou sempre em busca de novos desafios e oportunidades para aprender, inovar e contribuir com projetos destinados a diversas finalidades.
 
 ## 📫 Contatos
 
 São José dos Campos, SP  
-*(Insira seu email)*  
-*(Insira seu telefone)*  
-[GitHub – Davi Miyake](https://github.com/)  
-[LinkedIn – Davi Miyake Batista](https://www.linkedin.com/in/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaviMBDev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davimiyakeb/)
 
 ## 🧠 Conhecimentos
-*(Edite os conhecimentos abaixo conforme as suas habilidades)*
 
 ### Linguagens de Programação
 - Python  
@@ -25,18 +23,20 @@ São José dos Campos, SP
 - JavaScript  
 - TypeScript
 
-### Frontend
+### Frameworks
 - React
+- Nest.js
+- Tailwind CSS
+- Bootstrap
+- Flask
+- FastAPI
+
+### Frontend
 - HTML
 - CSS
-- Tailwind
-- Nativewind
-- Bootstrap
 
 ### Backend
 - Node.js
-- Flask
-- FastAPI
 - Swagger
 
 ### Banco de dados
@@ -54,8 +54,9 @@ São José dos Campos, SP
 
 ### Outros 
 - Pacote Office
-- PowerBI
-- Inglês avançado
+- Adobe InDesign / Illustrator
+- Oracle APEX
+- Inglês intermediário
 - Metodologia SCRUM
 
 # 💼 Meus Projetos
@@ -63,7 +64,7 @@ São José dos Campos, SP
 ## Scrum Academy - 2024 - 1º Semestre  
 
 ## Empresa Parceira  
-Este projeto teve como parceira a própria **FATEC São José dos Campos – Prof. Jessen Vidal**, que desempenhou o papel de cliente institucional. O objetivo proposto foi o desenvolvimento de uma solução educacional voltada para o ensino de metodologias ágeis de forma prática e descentralizada, facilitando o aprendizado para estudantes com diferentes níveis de conhecimento.
+Este projeto teve como parceira a própria **FATEC São José dos Campos – Prof. Jessen Vidal**, que desempenhou o papel de cliente institucional. O objetivo proposto foi o desenvolvimento de uma solução educacional voltada para o ensino de metodologias ágeis de forma prática e descentralizada, facilitando o aprendizado para estudantes e colaboradores com diferentes níveis de conhecimento.
 
 ## Problema  
 Notamos que o aprendizado do Scrum frequentemente se limita a aulas teóricas e materiais estáticos, o que cria barreiras na hora de entender os ritos na prática. Como os alunos não tinham a oportunidade de vivenciar de forma dinâmica os papéis e os processos (artefatos), aplicar esses conceitos no mercado de trabalho se tornava um desafio. Era evidente a carência de uma ferramenta que combinasse a base teórica com a aplicação prática.
@@ -84,19 +85,23 @@ Para resolver essa questão, criamos o **Scrum Academy**, uma aplicação web re
 
 ## Contribuições Pessoais  
 *(Edite esta seção com a sua atuação específica no projeto)*  
-Durante o desenvolvimento do projeto, atuei como desenvolvedor frontend e backend...
+Durante o desenvolvimento do projeto, atuei como desenvolvedor frontend e backend. 
 
 ## Hard Skills  
 *(Edite o nível de proficiência conforme o seu domínio)*
 
-| Habilidade | Descrição | Nível de Proficiência |
-|-------------|------------|-----------------------|
-| **HTML5 / CSS3** | Criação de páginas estruturadas e estilizadas | Iniciante |
-| **Bootstrap** | Uso de componentes prontos e responsividade | Iniciante |
-| **Python / Flask** | Desenvolvimento de back-end e rotas dinâmicas | Iniciante |
-| **Git / GitHub** | Versionamento e controle colaborativo de código | Iniciante |
-| **Figma** | Criação de protótipos e design de interface | Iniciante |
-| **Metodologias Ágeis (Scrum)** | Planejamento e facilitação das sprints | Intermediário |
+- **HTML5 / CSS3** *(Iniciante)*  
+  ↳ Criação de páginas estruturadas e estilizadas.
+- **Bootstrap** *(Iniciante)*  
+  ↳ Uso de componentes prontos e responsividade.
+- **Python / Flask** *(Iniciante)*  
+  ↳ Desenvolvimento de back-end e rotas dinâmicas.
+- **Git / GitHub** *(Iniciante)*  
+  ↳ Versionamento e controle colaborativo de código.
+- **Figma** *(Iniciante)*  
+  ↳ Criação de protótipos e design de interface.
+- **Metodologias Ágeis (Scrum)** *(Intermediário)*  
+  ↳ Planejamento e facilitação das sprints.
 
 ## Soft Skills  
 *(Edite esta seção para descrever as soft skills que VOCÊ desenvolveu)*  
@@ -144,14 +149,18 @@ Atuem em uma frente híbrida entre a liderança de equipe e o desenvolvimento t�
 ## Hard Skills  
 *(Edite o nível de proficiência conforme o seu domínio)*
 
-| Habilidade | Descrição | Nível de Proficiência |
-|-------------|------------|-----------------------|
-| **Java** | Desenvolvimento back-end e integração com IA | Iniciante |
-| **MySQL** | Modelagem, consultas e integração de dados | Intermediário |
-| **Ollama** | Criação e execução de agentes de IA locais | Iniciante |
-| **Figma** | Prototipagem de interfaces e fluxos de chatbot | Intermediário |
-| **Git + GitHub** | Versionamento e colaboração em equipe | Intermediário |
-| **Scrum + Metodologias Ágeis** | Planejamento e acompanhamento de sprints | Avançado |
+- **Java** *(Iniciante)*  
+  ↳ Desenvolvimento back-end e integração com IA.
+- **MySQL** *(Intermediário)*  
+  ↳ Modelagem, consultas e integração de dados.
+- **Ollama** *(Iniciante)*  
+  ↳ Criação e execução de agentes de IA locais.
+- **Figma** *(Intermediário)*  
+  ↳ Prototipagem de interfaces e fluxos de chatbot.
+- **Git + GitHub** *(Intermediário)*  
+  ↳ Versionamento e colaboração em equipe.
+- **Scrum + Metodologias Ágeis** *(Avançado)*  
+  ↳ Planejamento e acompanhamento de sprints.
 
 ## Soft Skills  
 *(Edite esta seção para descrever as soft skills que VOCÊ desenvolveu)*  
@@ -192,15 +201,20 @@ Atuei como desenvolvedor fullstack no projeto Alfalog...
 ## Hard Skills  
 *(Edite o nível de proficiência conforme o seu domínio)*
 
-| Habilidade | Descrição | Nível de Proficiência |
-|-------------|------------|-----------------------|
-| **React + TypeScript** | Desenvolvimento de interfaces, dashboards e componentes dinâmicos | Iniciante |
-| **Python + Flask** | Construção da API, regras de negócio, integração com banco, ETL dos dados | Intermediário |
-| **MySQL** | Modelagem de dados relacionais e elaboração de consultas complexas | Intermediário |
-| **HTML + CSS** | Estruturação e estilização de páginas web responsivas | Avançado |
-| **Figma** | Criação e prototipagem de interfaces (UI/UX) | Avançado |
-| **Git + GitHub** | Versionamento de código | Intermediário |
-| **Scrum + Metodologias Ágeis** | Planejamento e acompanhamento de sprints | Avançado |
+- **React + TypeScript** *(Iniciante)*  
+  ↳ Desenvolvimento de interfaces, dashboards e componentes dinâmicos.
+- **Python + Flask** *(Intermediário)*  
+  ↳ Construção da API, regras de negócio, integração com banco, ETL dos dados.
+- **MySQL** *(Intermediário)*  
+  ↳ Modelagem de dados relacionais e elaboração de consultas complexas.
+- **HTML + CSS** *(Avançado)*  
+  ↳ Estruturação e estilização de páginas web responsivas.
+- **Figma** *(Avançado)*  
+  ↳ Criação e prototipagem de interfaces (UI/UX).
+- **Git + GitHub** *(Intermediário)*  
+  ↳ Versionamento de código.
+- **Scrum + Metodologias Ágeis** *(Avançado)*  
+  ↳ Planejamento e acompanhamento de sprints.
 
 ## Soft Skills  
 *(Edite esta seção para descrever as soft skills que VOCÊ desenvolveu)*  
@@ -247,13 +261,16 @@ Atuei no desenvolvimento do ClassiPy com foco na estruturação...
 ## Hard Skills  
 *(Edite o nível de proficiência conforme o seu domínio)*
 
-| Habilidade | Descrição | Nível de Proficiência |
-|-------------|------------|-----------------------|
-| **React + TypeScript** | Desenvolvimento da interface e componentes responsivos | Intermediário |
-| **Python + FastAPI** | Automação de busca e definição de dados, criação de rotas e regras de negócio | Intermediário |
-| **PostgreSQL** | Modelagem e consultas de dados relacionais | Intermediário |
-| **Git + GitHub** | Controle de versão e colaboração entre desenvolvedores | Avançado |
-| **Scrum + Metodologias Ágeis** | Planejamento e acompanhamento de sprints | Avançado |
+- **React + TypeScript** *(Intermediário)*  
+  ↳ Desenvolvimento da interface e componentes responsivos.
+- **Python + FastAPI** *(Intermediário)*  
+  ↳ Automação de busca e definição de dados, criação de rotas e regras de negócio.
+- **PostgreSQL** *(Intermediário)*  
+  ↳ Modelagem e consultas de dados relacionais.
+- **Git + GitHub** *(Avançado)*  
+  ↳ Controle de versão e colaboração entre desenvolvedores.
+- **Scrum + Metodologias Ágeis** *(Avançado)*  
+  ↳ Planejamento e acompanhamento de sprints.
 
 ## 💬 Soft Skills  
 *(Edite esta seção para descrever as soft skills que VOCÊ desenvolveu)*  
