@@ -87,8 +87,7 @@ Para resolver essa questão, criamos o **Scrum Academy**, uma aplicação web re
 - **Figma** – Ferramenta usada na concepção das telas e no design de interfaces (UI/UX).
 
 ## Contribuições Pessoais  
-*(Edite esta seção com a sua atuação específica no projeto)*  
-Durante o desenvolvimento do projeto, atuei como desenvolvedor frontend e backend. 
+Durante o desenvolvimento do projeto, atuei como desenvolvedor frontend e backend. No início, todos da equipe focaram no visual que era o foco do semestre com HTML e CSS utilizando Bootstrap e Figma para prototipação. Porém, com o decorrer do desenvolvimento do projeto e também de nosso próprio desenvolvimento pessoal, vimos a necessidade de implementar a parte de banco de dados e Python para manipulação de dados de registro dos usuários e salvamento de progresso dos mesmos. Por ter tendência ao backend, fiquei responsável por aprender e ajudar no desenvolvimento da parte de CRUD junto com colegas da equipe que já tinham mais experiência com backend.
 
 ## Hard Skills  
 *(Edite o nível de proficiência conforme o seu domínio)*
@@ -146,8 +145,7 @@ Desenvolvemos um sistema desktop em Java integrado com algoritmos de Inteligênc
 - **Git e GitHub** – Ferramentas essenciais para o versionamento de código e trabalho paralelo em equipe.
 
 ## Contribuições Pessoais  
-*(Edite esta seção com a sua atuação específica no projeto)*  
-Atuem em uma frente híbrida entre a liderança de equipe e o desenvolvimento técnico...
+Novamente atuei mais na parte de backend. Neste semestre, o foco do professor supervisor era muito mais no backend e funcionalidade com Inteligência Artificial do que em frontend e visual. Por isso, foquei no backend, aprender e interagir com diferentes LLMs por meio do Ollama. Fui responsável por testar diversos modelos de IA e em integrá-las com o projeto em si
 
 ## Hard Skills  
 *(Edite o nível de proficiência conforme o seu domínio)*
