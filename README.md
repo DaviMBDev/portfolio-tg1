@@ -38,11 +38,14 @@ São José dos Campos, SP
 ### Backend
 - Node.js
 - Swagger
+- Postman
+- Curl
 
 ### Banco de dados
 - MySQL
 - PostgreSQL
 - MongoDB
+- Oracle SQL
 
 ### DevOps e Tecnologias
 - Git e Github
