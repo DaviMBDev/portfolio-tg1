@@ -265,9 +265,9 @@ O grande diferencial deste semestre foi trabalhar diretamente com um cliente ext
 ## Demonstração do Projeto
 
 <div style="display: flex; gap: 10px; margin-bottom: 10px; justify-content: center">
-  <img src="./docs/gifSprint1.gif" alt="Home" width="65%">
-  <img src="./docs/gifSprint2.gif" alt="Home" width="65%">
+  <img src="https://github.com/Bug-Busters-F/ClassiPy/blob/main/docs/gifs/gifSprint1.gif" alt="Home" width="65%">
+  <img src="https://github.com/Bug-Busters-F/ClassiPy/blob/main/docs/gifs/gifSprint2.gif" alt="Home" width="65%">
 </div>
 <div style="display: flex; gap: 10px; margin-bottom: 10px; justify-content: center">
-  <img src="./docs/gifSprint3.gif" alt="Home" width="65%">
+  <img src="https://github.com/Bug-Busters-F/ClassiPy/blob/main/docs/gifs/gifSprint3.gif" alt="Home" width="65%">
 </div>
