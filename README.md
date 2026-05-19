@@ -86,7 +86,7 @@ Para resolver essa questão, criamos o **Scrum Academy**, uma aplicação web re
 - **Figma** – Ferramenta usada na concepção das telas e no design de interfaces (UI/UX).
 
 ## Contribuições Pessoais  
-Durante o desenvolvimento do projeto, atuei como desenvolvedor frontend e backend. No início, todos da equipe focaram no visual que era o foco do semestre com HTML e CSS utilizando Bootstrap e Figma para prototipação. Porém, com o decorrer do desenvolvimento do projeto e também de nosso próprio desenvolvimento pessoal, vimos a necessidade de implementar a parte de banco de dados e Python para manipulação de dados de registro dos usuários e salvamento de progresso dos mesmos. Por ter tendência ao backend, fiquei responsável por aprender e ajudar no desenvolvimento da parte de CRUD junto com colegas da equipe que já tinham mais experiência com backend.
+Neste projeto, atuei de forma fullstack (frontend e backend). Inicialmente, nossa equipe concentrou esforços na interface do sistema, que era o foco principal do semestre, utilizando HTML, CSS, Bootstrap e Figma para prototipação. Contudo, ao longo do desenvolvimento, percebemos que para entregar uma solução completa precisaríamos integrar um banco de dados e uma API em Python para gerenciar o registro de usuários e salvar o progresso dos alunos no simulador. Como sempre tive uma afinidade maior com o backend, assumi a responsabilidade de mergulhar nesses estudos, focando no desenvolvimento das rotas e operações de CRUD em conjunto com os colegas mais experientes da equipe.
 
 ## Hard Skills  
 
@@ -104,7 +104,7 @@ Durante o desenvolvimento do projeto, atuei como desenvolvedor frontend e backen
   ↳ Planejamento e facilitação das sprints.
 
 ## Soft Skills  
-Como foi meu primeiro semestre tivemos um grande foco em realizar reuniões regulares para ficarmos a par do desenvolvimento do projeto. Tive um grande desenvolvimento de trabalho em equipe e principalmente na comunicação que foi fundamental para o bom funcionamento de nossa equipe. Não conhecia direito meus colegas de equipe ainda, então todas essas reuniões foram de ajuda para nos desenvolvermos como um bom time que permanece com boa parte de seus integrantes até o semestre presente. A necessidade de comunicação constante entre front e back, back e back foi crucial, por isso, foi a soft skill mais importante e mais desenvolvida durante esse projeto.
+Sendo o meu primeiro semestre, a **Comunicação** e o **Trabalho em Equipe** foram as soft skills mais exigidas e desenvolvidas. Como ainda não nos conhecíamos direito, estabelecemos uma rotina de reuniões regulares para alinhar o andamento do projeto. Essa comunicação constante e transparente, especialmente nas integrações entre o frontend e o backend (e dentro do próprio time de backend), foi fundamental para criar um ambiente colaborativo e de confiança. Graças a esse alinhamento inicial, conseguimos formar uma equipe coesa que se manteve unida e focada durante a maior parte do curso.
 
 ## Demonstração do Projeto
 
@@ -142,7 +142,7 @@ Desenvolvemos um sistema desktop em Java integrado com LLMs por meio do Ollama p
 - **Git e GitHub** – Ferramentas essenciais para o versionamento de código e trabalho paralelo em equipe.
 
 ## Contribuições Pessoais  
-Novamente atuei mais na parte de backend. Neste semestre, o foco do professor supervisor era muito mais no backend e funcionalidade com Inteligência Artificial do que em frontend e visual. Por isso, foquei no backend, aprender e interagir com diferentes LLMs por meio do Ollama. Fui responsável por testar diversos modelos de IA e em integrá-las com o projeto em si.
+Neste semestre, direcionei minha atuação de forma intensa para o backend. Como a exigência principal do projeto era a funcionalidade técnica voltada para Inteligência Artificial — em detrimento do aspecto puramente visual —, dediquei-me a estudar e interagir com diferentes LLMs (Large Language Models) operando localmente via Ollama. Fui o principal responsável por realizar os testes comparativos de precisão entre diversos modelos de IA e, posteriormente, liderar a integração técnica da IA escolhida com a nossa aplicação principal desenvolvida em Java.
 
 ## Hard Skills  
 
@@ -160,7 +160,7 @@ Novamente atuei mais na parte de backend. Neste semestre, o foco do professor su
   ↳ Planejamento e acompanhamento de sprints.
 
 ## Soft Skills  
-Trabalhar com uma linguagem nada convidativa para iniciantes como o java e a integração com LLMs por meio do Ollama foi um desafio para mim e toda equipe. Manter a calma e focarmos nos pontos principais foi crucial para um bom desenvolvimento do projeto e também pessoal, principalmente por estarmos perdidos nesse semestre e tanto conteúdo novo. Com uma boa comunicação e trabalho em equipe pudemos nos resolver totalmente. Na época tivemos alguns contra-tempos no projeto por causa de um integrante novo que causou alguns problemas nas entregas finais de algumas sprints, mas manter a calma e se concentrar na solução foi o que fez com que nossa equipe ficasse de pé e forte. 
+O maior desafio deste semestre foi lidar com uma curva de aprendizado íngreme envolvendo a linguagem Java e a orquestração de LLMs pelo Ollama. Isso exigiu muita **Inteligência Emocional** e **Resiliência** de toda a equipe. No início, havia um sentimento de estarmos perdidos diante de tanto conteúdo novo, mas foi crucial mantermos a calma para priorizar as entregas. Além dos desafios técnicos, tivemos obstáculos com a adaptação de um novo integrante, o que acabou impactando algumas entregas finais. Nesse momento crítico, exercitei minha capacidade de **Foco na Resolução de Problemas**, ajudando a equipe a focar na solução e não no problema. Isso manteve nosso time de pé, forte e alinhado até o fim do semestre.
 
 ## Demonstração do Projeto
 
@@ -191,7 +191,7 @@ Para contornar essas limitações, criamos o **Alfalog**, um portal web focado e
 - **Jira** – Software adotado para organizar o fluxo ágil, monitorar atividades e coordenar as Sprints.
 
 ## Contribuições Pessoais  
-Nesse 3° semestre fomos orientados a fazer repositórios separados entre back e front. Nisso, fiquei focado completamente no backend ajudando no desenvolvimento da estrutura de rotas que utilizaríamos para integrar com o frontend. Fui responsável pelo backend de grande parte dos gráficos e dashboards, como a manipulação de dados do gráfico da balança comercial por NCM e dos gráficos de pesquisa, desenvolvimento de algumas das rotas utilizadas e correções gerais dentro do projeto.  
+Neste 3º semestre, adotamos uma arquitetura mais avançada separando fisicamente os repositórios do front e do backend. Diante disso, foquei 100% no backend. Auxiliei ativamente na concepção e no desenvolvimento de toda a estrutura de rotas da API (Flask) que alimentaria o frontend. A minha principal responsabilidade foi construir as rotas e a lógica de processamento que geravam os gráficos e dashboards, com forte destaque na complexa manipulação de dados referentes à balança comercial por NCM e nos recursos de pesquisa. Além disso, fui encarregado de correções sistêmicas gerais ao longo do projeto.
 
 ## Hard Skills  
 
@@ -207,7 +207,7 @@ Nesse 3° semestre fomos orientados a fazer repositórios separados entre back e
   ↳ Planejamento e acompanhamento de sprints.
 
 ## Soft Skills  
-Novamente nos deparamos com uma barreira enorme que eram os extensos dados com os quais iríamos trabalhar. Manter a calma no início nos ajudou a focar completamente na solução. A partir desse 3° semestre fomos orientados a fazer repositório separados entre frontend e backend, então houve uma divisão natural da equipe entre os que possuiam mais facilidade com front e com back. Nisso, a comunicação entre os desenvolvedores do frontend e backend foi fundamental para um bom funcionamento da equipe e desenvolvimentos saudável do projeto. Por meio da boa comunicação evitamos conflitos desnecesários e sempre compartilhamos entre nós ideias de melhorias e novas features em todo o produto que desenvolvíamos.
+A manipulação de volumes massivos de dados foi uma grande barreira, exigindo **Disciplina** e muita resiliência no início do projeto. Com a divisão do time em duas frentes independentes (frontend e backend baseados em afinidade tecnológica), a **Comunicação Interpessoal** tornou-se a espinha dorsal do projeto. Precisávamos garantir que a integração entre as duas partes ocorresse sem atritos, o que só foi possível graças ao diálogo aberto entre os membros da equipe. Essa boa comunicação evitou conflitos desnecessários e criou um ambiente muito saudável onde pudemos compartilhar livremente ideias de otimização e novas features para o produto.
 
 ## Demonstração do Projeto
 
@@ -244,7 +244,7 @@ A solução desenvolvida pelo grupo foi o **ClassiPy (Classificação Inteligent
 - **Jira** – Plataforma central para gerenciar tarefas e acompanhar o andamento da equipe com a metodologia Scrum.
 
 ## Contribuições Pessoais  
-Novamente foquei meus esforços totalmente ao backend. Fui responsável pela estruturação, conexão e desenvolvimento do banco de dados utilizando PostgreSQL. Fui responsável também por parte da manipulação de dados e rotas para integração com o frontend enquanto seguindo as regras de negócio impostas pelo cliente. Como **Scrum Master**, tive papel na organização da equipe, realização de reuniões quando necessárias e por manter tudo em ordem. Desde o começo do curso, nossa equipe foi sempre consistente, portanto, minhas funções como scrum master foram facilitadas pela boa comunicação que o time já vinha desenvolvendo pelos semestres anteriores.
+Seguindo minha trilha de especialização, dediquei meus esforços integralmente ao backend. Fui o principal responsável por estruturar, conectar e desenvolver toda a base de dados do sistema utilizando PostgreSQL. Também assumi uma carga substancial do tratamento de dados e da criação de rotas da API (FastAPI) para integrar com o frontend, sempre zelando pela obediência estrita às regras de negócio do cliente. Além de minhas contribuições técnicas, atuei formalmente como **Scrum Master** da equipe. Facilitei a organização geral do grupo, planejei as sprints e conduzi reuniões eficientes de alinhamento. Como nossa equipe sempre foi muito consistente, minhas responsabilidades como Scrum Master fluíram muito bem devido à ótima maturidade de comunicação que havíamos construído nos semestres anteriores.
 
 ## Hard Skills  
 
@@ -260,7 +260,7 @@ Novamente foquei meus esforços totalmente ao backend. Fui responsável pela est
   ↳ Planejamento e acompanhamento de sprints.
 
 ## 💬 Soft Skills 
-O novo problema apresentado neste semestre foi o fato de termos um cliente externo. Foi uma ótima experiência sobre ter contato direto com clientes, atualizá-los com novas informações sempre que possível e nos mantermos atentos em relação as demandas do cliente. Como scrum master, a comunicação e trabalho em equipe foram cruciais para manter um bom desenvolvimento do projeto. Tivemos a questão de um integrante chave saindo de nosso time, mas isso também foi como um impulsionador para o nosso desenvolvimento. Com reuniões que iam direto ao ponto, sem enrolação e eficientes, fomos capazes de fazer ótimas entregas sempre dentro do prazo, mesmo com uma equipe reduzida de apenas 5 pessoas. Uma boa organização entre as funções foi crucial para não perdermos tempo e desenvolvermos um produto que foi de muito agrado para o cliente.
+O grande diferencial deste semestre foi trabalhar diretamente com um cliente externo real, exigindo **Orientação ao Cliente** e forte **Comunicação Profissional**. Aprendemos na prática a importância de atualizar o cliente constantemente e traduzir as demandas de negócios dele em requisitos técnicos viáveis. Além disso, enfrentamos o desafio da saída de um integrante-chave. Ao invés de nos desestabilizar, esse obstáculo aguçou nossa **Adaptabilidade** e **Organização**. Como Scrum Master, guiei a equipe a promover reuniões muito mais curtas e diretas, sem enrolação. Essa eficiência permitiu que, mesmo com apenas cinco desenvolvedores, fizéssemos entregas incríveis e dentro dos prazos estipulados, finalizando um produto de altíssima qualidade que atendeu plenamente as expectativas do cliente.
 
 ## Demonstração do Projeto
 
