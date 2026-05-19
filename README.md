@@ -9,9 +9,8 @@ Além da minha graduação em andamento, possuo formação como **Técnico em Re
 Estou sempre em busca de novos desafios e oportunidades para aprender, inovar e contribuir com projetos destinados a diversas finalidades.
 
 ## 📫 Contatos
-
-São José dos Campos, SP  
-
+davimb00789@gmail.com
+(12)98111-5383
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaviMBDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davimiyakeb/)
 
@@ -105,8 +104,7 @@ Durante o desenvolvimento do projeto, atuei como desenvolvedor frontend e backen
   ↳ Planejamento e facilitação das sprints.
 
 ## Soft Skills  
-*(Edite esta seção para descrever as soft skills que VOCÊ desenvolveu)*  
-O desenvolvimento do projeto demandou forte articulação interpessoal...
+Como foi meu primeiro semestre tivemos um grande foco em realizar reuniões regulares para ficarmos a par do desenvolvimento do projeto. Tive um grande desenvolvimento de trabalho em equipe e principalmente na comunicação que foi fundamental para o bom funcionamento de nossa equipe. Não conhecia direito meus colegas de equipe ainda, então todas essas reuniões foram de ajuda para nos desenvolvermos como um bom time que permanece com boa parte de seus integrantes até o semestre presente. A necessidade de comunicação constante entre front e back, back e back foi crucial, por isso, foi a soft skill mais importante e mais desenvolvida durante esse projeto.
 
 ## Demonstração do Projeto
 
@@ -131,7 +129,7 @@ O trabalho foi realizado em conjunto com a **FATEC São José dos Campos – Pro
 Diversas empresas do setor de logística sofrem com processos manuais e demorados no registro de entrada e saída de veículos, criando filas e atrasos nos pátios. Extrair texto de maneira simples não era suficiente, pois era necessário interpretar o contexto de imagens complexas. Havia, portanto, a urgência de uma solução que pudesse ler, interpretar e processar visualmente essas informações automaticamente, minimizando a dependência de digitação manual por parte de funcionários.
 
 ## Solução 
-Desenvolvemos um sistema desktop em Java integrado com algoritmos de Inteligência Artificial para contornar essa dor. Ao invés de depender de anotações humanas ou reconhecimento de texto falho, o software utiliza a leitura e análise de contexto visual para extrair de forma assertiva os dados de placas de veículos nas imagens processadas. Uma vez que os caracteres são identificados pela IA, a aplicação registra e organiza as informações diretamente em um banco de dados relacional. Isso otimiza o fluxo de veículos e digitaliza processos visuais com rapidez e confiabilidade.
+Desenvolvemos um sistema desktop em Java integrado com LLMs por meio do Ollama para contornar essa dor. Ao invés de depender de anotações humanas ou reconhecimento de texto falho, o software utiliza a leitura e análise de contexto visual para extrair de forma assertiva os dados de placas de veículos nas imagens processadas. Uma vez que os caracteres são identificados pela IA, a aplicação registra e organiza as informações diretamente em um banco de dados relacional. Isso otimiza o fluxo de veículos e digitaliza processos visuais com rapidez e confiabilidade.
 
 ## 🔗 Repositório
 [Alplaca (Bug Busters)](https://github.com/Bug-Busters-F/alplaca)
@@ -144,7 +142,7 @@ Desenvolvemos um sistema desktop em Java integrado com algoritmos de Inteligênc
 - **Git e GitHub** – Ferramentas essenciais para o versionamento de código e trabalho paralelo em equipe.
 
 ## Contribuições Pessoais  
-Novamente atuei mais na parte de backend. Neste semestre, o foco do professor supervisor era muito mais no backend e funcionalidade com Inteligência Artificial do que em frontend e visual. Por isso, foquei no backend, aprender e interagir com diferentes LLMs por meio do Ollama. Fui responsável por testar diversos modelos de IA e em integrá-las com o projeto em si
+Novamente atuei mais na parte de backend. Neste semestre, o foco do professor supervisor era muito mais no backend e funcionalidade com Inteligência Artificial do que em frontend e visual. Por isso, foquei no backend, aprender e interagir com diferentes LLMs por meio do Ollama. Fui responsável por testar diversos modelos de IA e em integrá-las com o projeto em si.
 
 ## Hard Skills  
 
@@ -162,6 +160,7 @@ Novamente atuei mais na parte de backend. Neste semestre, o foco do professor su
   ↳ Planejamento e acompanhamento de sprints.
 
 ## Soft Skills  
+Trabalhar com uma linguagem nada convidativa para iniciantes como o java e a integração com LLMs por meio do Ollama foi um desafio para mim e toda equipe. Manter a calma e focarmos nos pontos principais foi crucial para um bom desenvolvimento do projeto e também pessoal, principalmente por estarmos perdidos nesse semestre e tanto conteúdo novo. Com uma boa comunicação e trabalho em equipe pudemos nos resolver totalmente. Na época tivemos alguns contra-tempos no projeto por causa de um integrante novo que causou alguns problemas nas entregas finais de algumas sprints, mas manter a calma e se concentrar na solução foi o que fez com que nossa equipe ficasse de pé e forte. 
 
 ## Demonstração do Projeto
 
@@ -192,6 +191,7 @@ Para contornar essas limitações, criamos o **Alfalog**, um portal web focado e
 - **Jira** – Software adotado para organizar o fluxo ágil, monitorar atividades e coordenar as Sprints.
 
 ## Contribuições Pessoais  
+Nesse 3° semestre fomos orientados a fazer repositórios separados entre back e front. Nisso, fiquei focado completamente no backend ajudando no desenvolvimento da estrutura de rotas que utilizaríamos para integrar com o frontend. Fui responsável pelo backend de grande parte dos gráficos e dashboards, como a manipulação de dados do gráfico da balança comercial por NCM e dos gráficos de pesquisa, desenvolvimento de algumas das rotas utilizadas e correções gerais dentro do projeto.  
 
 ## Hard Skills  
 
@@ -201,16 +201,13 @@ Para contornar essas limitações, criamos o **Alfalog**, um portal web focado e
   ↳ Construção da API, regras de negócio, integração com banco, ETL dos dados.
 - **MySQL** *(Intermediário)*  
   ↳ Modelagem de dados relacionais e elaboração de consultas complexas.
-- **HTML + CSS** *(Avançado)*  
-  ↳ Estruturação e estilização de páginas web responsivas.
-- **Figma** *(Avançado)*  
-  ↳ Criação e prototipagem de interfaces (UI/UX).
-- **Git + GitHub** *(Intermediário)*  
+- **Git + GitHub** *(Avançado)*  
   ↳ Versionamento de código.
 - **Scrum + Metodologias Ágeis** *(Avançado)*  
   ↳ Planejamento e acompanhamento de sprints.
 
 ## Soft Skills  
+Novamente nos deparamos com uma barreira enorme que eram os extensos dados com os quais iríamos trabalhar. Manter a calma no início nos ajudou a focar completamente na solução. A partir desse 3° semestre fomos orientados a fazer repositório separados entre frontend e backend, então houve uma divisão natural da equipe entre os que possuiam mais facilidade com front e com back. Nisso, a comunicação entre os desenvolvedores do frontend e backend foi fundamental para um bom funcionamento da equipe e desenvolvimentos saudável do projeto. Por meio da boa comunicação evitamos conflitos desnecesários e sempre compartilhamos entre nós ideias de melhorias e novas features em todo o produto que desenvolvíamos.
 
 ## Demonstração do Projeto
 
@@ -247,10 +244,11 @@ A solução desenvolvida pelo grupo foi o **ClassiPy (Classificação Inteligent
 - **Jira** – Plataforma central para gerenciar tarefas e acompanhar o andamento da equipe com a metodologia Scrum.
 
 ## Contribuições Pessoais  
+Novamente foquei meus esforços totalmente ao backend. Fui responsável pela estruturação, conexão e desenvolvimento do banco de dados utilizando PostgreSQL. Fui responsável também por parte da manipulação de dados e rotas para integração com o frontend enquanto seguindo as regras de negócio impostas pelo cliente. Como **Scrum Master**, tive papel na organização da equipe, realização de reuniões quando necessárias e por manter tudo em ordem. Desde o começo do curso, nossa equipe foi sempre consistente, portanto, minhas funções como scrum master foram facilitadas pela boa comunicação que o time já vinha desenvolvendo pelos semestres anteriores.
 
 ## Hard Skills  
 
-- **React + TypeScript** *(Intermediário)*  
+- **React + TypeScript** *(Iniciante)*  
   ↳ Desenvolvimento da interface e componentes responsivos.
 - **Python + FastAPI** *(Intermediário)*  
   ↳ Automação de busca e definição de dados, criação de rotas e regras de negócio.
@@ -261,7 +259,8 @@ A solução desenvolvida pelo grupo foi o **ClassiPy (Classificação Inteligent
 - **Scrum + Metodologias Ágeis** *(Avançado)*  
   ↳ Planejamento e acompanhamento de sprints.
 
-## 💬 Soft Skills  
+## 💬 Soft Skills 
+O novo problema apresentado neste semestre foi o fato de termos um cliente externo. Foi uma ótima experiência sobre ter contato direto com clientes, atualizá-los com novas informações sempre que possível e nos mantermos atentos em relação as demandas do cliente. Como scrum master, a comunicação e trabalho em equipe foram cruciais para manter um bom desenvolvimento do projeto. Tivemos a questão de um integrante chave saindo de nosso time, mas isso também foi como um impulsionador para o nosso desenvolvimento. Com reuniões que iam direto ao ponto, sem enrolação e eficientes, fomos capazes de fazer ótimas entregas sempre dentro do prazo, mesmo com uma equipe reduzida de apenas 5 pessoas. Uma boa organização entre as funções foi crucial para não perdermos tempo e desenvolvermos um produto que foi de muito agrado para o cliente.
 
 ## Demonstração do Projeto
 
