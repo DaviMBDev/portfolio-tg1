@@ -9,10 +9,10 @@ Além da minha graduação em andamento, possuo formação como **Técnico em Re
 Estou sempre em busca de novos desafios e oportunidades para aprender, inovar e contribuir com projetos destinados a diversas finalidades.
 
 ## 📫 Contatos
-davimb00789@gmail.com
-(12)98111-5383
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaviMBDev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davimiyakeb/)
+- davimb00789@gmail.com
+- (12)98111-5383
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaviMBDev)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davimiyakeb/)
 
 ## 🧠 Conhecimentos
 
