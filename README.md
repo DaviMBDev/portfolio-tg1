@@ -90,7 +90,6 @@ Para resolver essa questão, criamos o **Scrum Academy**, uma aplicação web re
 Durante o desenvolvimento do projeto, atuei como desenvolvedor frontend e backend. No início, todos da equipe focaram no visual que era o foco do semestre com HTML e CSS utilizando Bootstrap e Figma para prototipação. Porém, com o decorrer do desenvolvimento do projeto e também de nosso próprio desenvolvimento pessoal, vimos a necessidade de implementar a parte de banco de dados e Python para manipulação de dados de registro dos usuários e salvamento de progresso dos mesmos. Por ter tendência ao backend, fiquei responsável por aprender e ajudar no desenvolvimento da parte de CRUD junto com colegas da equipe que já tinham mais experiência com backend.
 
 ## Hard Skills  
-*(Edite o nível de proficiência conforme o seu domínio)*
 
 - **HTML5 / CSS3** *(Iniciante)*  
   ↳ Criação de páginas estruturadas e estilizadas.
@@ -148,7 +147,6 @@ Desenvolvemos um sistema desktop em Java integrado com algoritmos de Inteligênc
 Novamente atuei mais na parte de backend. Neste semestre, o foco do professor supervisor era muito mais no backend e funcionalidade com Inteligência Artificial do que em frontend e visual. Por isso, foquei no backend, aprender e interagir com diferentes LLMs por meio do Ollama. Fui responsável por testar diversos modelos de IA e em integrá-las com o projeto em si
 
 ## Hard Skills  
-*(Edite o nível de proficiência conforme o seu domínio)*
 
 - **Java** *(Iniciante)*  
   ↳ Desenvolvimento back-end e integração com IA.
@@ -164,8 +162,6 @@ Novamente atuei mais na parte de backend. Neste semestre, o foco do professor su
   ↳ Planejamento e acompanhamento de sprints.
 
 ## Soft Skills  
-*(Edite esta seção para descrever as soft skills que VOCÊ desenvolveu)*  
-O exercício das minhas soft skills foi fundamental para o sucesso do projeto...
 
 ## Demonstração do Projeto
 
@@ -196,11 +192,8 @@ Para contornar essas limitações, criamos o **Alfalog**, um portal web focado e
 - **Jira** – Software adotado para organizar o fluxo ágil, monitorar atividades e coordenar as Sprints.
 
 ## Contribuições Pessoais  
-*(Edite esta seção com a sua atuação específica no projeto)*  
-Atuei como desenvolvedor fullstack no projeto Alfalog...
 
 ## Hard Skills  
-*(Edite o nível de proficiência conforme o seu domínio)*
 
 - **React + TypeScript** *(Iniciante)*  
   ↳ Desenvolvimento de interfaces, dashboards e componentes dinâmicos.
@@ -218,8 +211,6 @@ Atuei como desenvolvedor fullstack no projeto Alfalog...
   ↳ Planejamento e acompanhamento de sprints.
 
 ## Soft Skills  
-*(Edite esta seção para descrever as soft skills que VOCÊ desenvolveu)*  
-O projeto exigiu grande resiliência e disciplina...
 
 ## Demonstração do Projeto
 
@@ -256,11 +247,8 @@ A solução desenvolvida pelo grupo foi o **ClassiPy (Classificação Inteligent
 - **Jira** – Plataforma central para gerenciar tarefas e acompanhar o andamento da equipe com a metodologia Scrum.
 
 ## Contribuições Pessoais  
-*(Edite esta seção com a sua atuação específica no projeto)*  
-Atuei no desenvolvimento do ClassiPy com foco na estruturação...
 
 ## Hard Skills  
-*(Edite o nível de proficiência conforme o seu domínio)*
 
 - **React + TypeScript** *(Intermediário)*  
   ↳ Desenvolvimento da interface e componentes responsivos.
@@ -274,8 +262,6 @@ Atuei no desenvolvimento do ClassiPy com foco na estruturação...
   ↳ Planejamento e acompanhamento de sprints.
 
 ## 💬 Soft Skills  
-*(Edite esta seção para descrever as soft skills que VOCÊ desenvolveu)*  
-Esse projeto exigiu bastante disciplina e resiliência...
 
 ## Demonstração do Projeto
 
