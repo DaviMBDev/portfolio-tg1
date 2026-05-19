@@ -90,18 +90,14 @@ Neste projeto, atuei de forma fullstack (frontend e backend). Inicialmente, noss
 
 ## Hard Skills  
 
-- **HTML5 / CSS3** *(Iniciante)*  
-  ↳ Criação de páginas estruturadas e estilizadas.
-- **Bootstrap** *(Iniciante)*  
-  ↳ Uso de componentes prontos e responsividade.
-- **Python / Flask** *(Iniciante)*  
-  ↳ Desenvolvimento de back-end e rotas dinâmicas.
-- **Git / GitHub** *(Iniciante)*  
-  ↳ Versionamento e controle colaborativo de código.
-- **Figma** *(Iniciante)*  
-  ↳ Criação de protótipos e design de interface.
-- **Metodologias Ágeis (Scrum)** *(Intermediário)*  
-  ↳ Planejamento e facilitação das sprints.
+| Habilidade | Descrição | Nível de Proficiência |
+|-------------|------------|-----------------------|
+| **HTML5 / CSS3** | Desenvolvimento da estrutura semântica e estilização visual das interfaces. | Fundamentos |
+| **Bootstrap** | Aplicação de classes utilitárias para agilizar layouts responsivos. | Fundamentos |
+| **Python / Flask** | Construção da API e orquestração das requisições no servidor. | Fundamentos |
+| **Git / GitHub** | Gerenciamento do código-fonte e colaboração em repositório. | Fundamentos |
+| **Figma** | Desenho das telas e prototipação de alta fidelidade. | Fundamentos |
+| **Metodologias Ágeis (Scrum)** | Organização dos ritos ágeis e acompanhamento das entregas. | Prático |
 
 ## Soft Skills  
 Sendo o meu primeiro semestre, a **Comunicação** e o **Trabalho em Equipe** foram as soft skills mais exigidas e desenvolvidas. Como ainda não nos conhecíamos direito, estabelecemos uma rotina de reuniões regulares para alinhar o andamento do projeto. Essa comunicação constante e transparente, especialmente nas integrações entre o frontend e o backend (e dentro do próprio time de backend), foi fundamental para criar um ambiente colaborativo e de confiança. Graças a esse alinhamento inicial, conseguimos formar uma equipe coesa que se manteve unida e focada durante a maior parte do curso.
@@ -146,18 +142,14 @@ Neste semestre, direcionei minha atuação de forma intensa para o backend. Como
 
 ## Hard Skills  
 
-- **Java** *(Iniciante)*  
-  ↳ Desenvolvimento back-end e integração com IA.
-- **MySQL** *(Intermediário)*  
-  ↳ Modelagem, consultas e integração de dados.
-- **Ollama** *(Iniciante)*  
-  ↳ Criação e execução de agentes de IA locais.
-- **Figma** *(Intermediário)*  
-  ↳ Prototipagem de interfaces e fluxos de chatbot.
-- **Git + GitHub** *(Intermediário)*  
-  ↳ Versionamento e colaboração em equipe.
-- **Scrum + Metodologias Ágeis** *(Avançado)*  
-  ↳ Planejamento e acompanhamento de sprints.
+| Habilidade | Descrição | Nível de Proficiência |
+|-------------|------------|-----------------------|
+| **Java** | Programação da lógica de negócios e conexão com serviços de Inteligência Artificial. | Fundamentos |
+| **MySQL** | Estruturação das tabelas e execução de queries relacionais. | Prático |
+| **Ollama** | Configuração e rodagem de modelos de LLM em ambiente local. | Fundamentos |
+| **Figma** | Design do fluxo de telas e da jornada visual do usuário. | Prático |
+| **Git + GitHub** | Manutenção do histórico de versões e revisão de código. | Prático |
+| **Scrum + Metodologias Ágeis** | Gestão do fluxo de trabalho e coordenação das atividades do time. | Proficiente |
 
 ## Soft Skills  
 O maior desafio deste semestre foi lidar com uma curva de aprendizado íngreme envolvendo a linguagem Java e a orquestração de LLMs pelo Ollama. Isso exigiu muita **Inteligência Emocional** e **Resiliência** de toda a equipe. No início, havia um sentimento de estarmos perdidos diante de tanto conteúdo novo, mas foi crucial mantermos a calma para priorizar as entregas. Além dos desafios técnicos, tivemos obstáculos com a adaptação de um novo integrante, o que acabou impactando algumas entregas finais. Nesse momento crítico, exercitei minha capacidade de **Foco na Resolução de Problemas**, ajudando a equipe a focar na solução e não no problema. Isso manteve nosso time de pé, forte e alinhado até o fim do semestre.
@@ -195,16 +187,13 @@ Neste 3º semestre, adotamos uma arquitetura mais avançada separando fisicament
 
 ## Hard Skills  
 
-- **React + TypeScript** *(Iniciante)*  
-  ↳ Desenvolvimento de interfaces, dashboards e componentes dinâmicos.
-- **Python + Flask** *(Intermediário)*  
-  ↳ Construção da API, regras de negócio, integração com banco, ETL dos dados.
-- **MySQL** *(Intermediário)*  
-  ↳ Modelagem de dados relacionais e elaboração de consultas complexas.
-- **Git + GitHub** *(Avançado)*  
-  ↳ Versionamento de código.
-- **Scrum + Metodologias Ágeis** *(Avançado)*  
-  ↳ Planejamento e acompanhamento de sprints.
+| Habilidade | Descrição | Nível de Proficiência |
+|-------------|------------|-----------------------|
+| **React + TypeScript** | Criação de componentes reutilizáveis e construção de dashboards interativos com tipagem. | Fundamentos |
+| **Python + Flask** | Desenvolvimento do motor da aplicação, processos de ETL e exposição dos endpoints. | Prático |
+| **MySQL** | Arquitetura do banco e otimização de consultas para grandes volumes de dados. | Prático |
+| **Git + GitHub** | Controle rigoroso de ramificações (branching) e entregas contínuas. | Proficiente |
+| **Scrum + Metodologias Ágeis** | Liderança na condução das cerimônias ágeis e garantia das metas da sprint. | Proficiente |
 
 ## Soft Skills  
 A manipulação de volumes massivos de dados foi uma grande barreira, exigindo **Disciplina** e muita resiliência no início do projeto. Com a divisão do time em duas frentes independentes (frontend e backend baseados em afinidade tecnológica), a **Comunicação Interpessoal** tornou-se a espinha dorsal do projeto. Precisávamos garantir que a integração entre as duas partes ocorresse sem atritos, o que só foi possível graças ao diálogo aberto entre os membros da equipe. Essa boa comunicação evitou conflitos desnecessários e criou um ambiente muito saudável onde pudemos compartilhar livremente ideias de otimização e novas features para o produto.
@@ -248,16 +237,13 @@ Seguindo minha trilha de especialização, dediquei meus esforços integralmente
 
 ## Hard Skills  
 
-- **React + TypeScript** *(Iniciante)*  
-  ↳ Desenvolvimento da interface e componentes responsivos.
-- **Python + FastAPI** *(Intermediário)*  
-  ↳ Automação de busca e definição de dados, criação de rotas e regras de negócio.
-- **PostgreSQL** *(Intermediário)*  
-  ↳ Modelagem e consultas de dados relacionais.
-- **Git + GitHub** *(Avançado)*  
-  ↳ Controle de versão e colaboração entre desenvolvedores.
-- **Scrum + Metodologias Ágeis** *(Avançado)*  
-  ↳ Planejamento e acompanhamento de sprints.
+| Habilidade | Descrição | Nível de Proficiência |
+|-------------|------------|-----------------------|
+| **React + TypeScript** | Implementação das telas principais e garantia da responsividade. | Fundamentos |
+| **Python + FastAPI** | Construção de arquitetura assíncrona para extração de dados e regras fiscais. | Prático |
+| **PostgreSQL** | Desenho estrutural do armazenamento e manipulação de esquemas relacionais. | Prático |
+| **Git + GitHub** | Colaboração avançada, merge requests e versionamento do software. | Proficiente |
+| **Scrum + Metodologias Ágeis** | Atuação direta como facilitador (Scrum Master) e gerenciamento de tarefas no Jira. | Proficiente |
 
 ## 💬 Soft Skills 
 O grande diferencial deste semestre foi trabalhar diretamente com um cliente externo real, exigindo **Orientação ao Cliente** e forte **Comunicação Profissional**. Aprendemos na prática a importância de atualizar o cliente constantemente e traduzir as demandas de negócios dele em requisitos técnicos viáveis. Além disso, enfrentamos o desafio da saída de um integrante-chave. Ao invés de nos desestabilizar, esse obstáculo aguçou nossa **Adaptabilidade** e **Organização**. Como Scrum Master, guiei a equipe a promover reuniões muito mais curtas e diretas, sem enrolação. Essa eficiência permitiu que, mesmo com apenas cinco desenvolvedores, fizéssemos entregas incríveis e dentro dos prazos estipulados, finalizando um produto de altíssima qualidade que atendeu plenamente as expectativas do cliente.
