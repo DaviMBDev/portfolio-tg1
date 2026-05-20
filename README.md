@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Olá! Sou o Davi Miyake Batista, um profissional apaixonado por tecnologia e fascinado por suas diversas vertentes. Atualmente, estou no 5º (e penúltimo) semestre do curso de **Análise e Desenvolvimento de Sistemas** pela **FATEC de São José dos Campos**, onde venho aprofundando meus conhecimentos na criação de soluções de software e no desenvolvimento de projetos práticos.
+Olá! Sou o Davi Miyake Batista, um profissional apaixonado por tecnologia e fascinado por suas diversas vertentes. Escolhi cursar **Análise e Desenvolvimento de Sistemas** na **FATEC de São José dos Campos** devido à forte reputação da instituição no mercado tecnológico e à sua metodologia de ensino focada na prática (como a Aprendizagem por Projetos Integrados), o que considero essencial para uma formação técnica sólida. Atualmente estou no 5º (e penúltimo) semestre.
 
-Além da minha graduação em andamento, possuo formação como **Técnico em Redes de Computadores** pelo **SENAI de São José dos Campos**, concluída no primeiro semestre de 2023. Essa sólida base em infraestrutura, aliada aos meus estudos em desenvolvimento de software, me proporciona uma visão ampla e integrada da tecnologia. Isso me permite compreender o ciclo de vida das aplicações ponta a ponta, desde o código até a rede onde ele é executado. 
+Além da minha graduação em andamento, possuo formação como **Técnico em Redes de Computadores** pelo **SENAI de São José dos Campos**, concluída no primeiro semestre de 2023. Essa sólida base em infraestrutura, aliada aos meus estudos em desenvolvimento de software, me proporciona uma visão ampla e integrada da tecnologia, desde o código até a rede onde ele é executado.
 
-Estou sempre em busca de novos desafios e oportunidades para aprender, inovar e contribuir com projetos destinados a diversas finalidades.
+Profissionalmente, atuo no momento como estagiário na **Prefeitura Municipal**, onde aplico meus conhecimentos no desenvolvimento e gestão de formulários e fluxos utilizando ferramentas como Adobe InDesign, Illustrator e Oracle APEX. Atualmente, estou em busca de novas oportunidades e desafios na área de desenvolvimento de software (com forte interesse em Back-end), para aplicar e expandir todo o arcabouço prático que adquiri ao longo da minha jornada acadêmica e profissional.
 
 ## 📫 Contatos
 - davimb00789@gmail.com
