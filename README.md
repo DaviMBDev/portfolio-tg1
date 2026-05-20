@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Olá! Sou o Davi Miyake Batista, um profissional apaixonado por tecnologia e fascinado por suas diversas vertentes. Escolhi cursar **Análise e Desenvolvimento de Sistemas** na **FATEC de São José dos Campos** devido à forte reputação da instituição no mercado tecnológico e à sua metodologia de ensino focada na prática (como a Aprendizagem por Projetos Integrados), o que considero essencial para uma formação técnica sólida. Atualmente estou no 5º (e penúltimo) semestre.
+Olá! Sou o Davi Miyake Batista, um profissional fortemente interessado por tecnologia e fascinado por suas diversas vertentes. Escolhi cursar **Análise e Desenvolvimento de Sistemas** na **FATEC de São José dos Campos** devido à forte reputação da instituição no mercado tecnológico e à sua metodologia de ensino focada na prática (como a Aprendizagem por Projetos Integrados), o que considero essencial para uma formação técnica sólida. Atualmente estou no 5º (e penúltimo) semestre.
 
 Além da minha graduação em andamento, possuo formação como **Técnico em Redes de Computadores** pelo **SENAI de São José dos Campos**, concluída no primeiro semestre de 2023. Essa sólida base em infraestrutura, aliada aos meus estudos em desenvolvimento de software, me proporciona uma visão ampla e integrada da tecnologia, desde o código até a rede onde ele é executado.
 
